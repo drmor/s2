@@ -1,0 +1,39 @@
+body {
+	/*background-color: rgba(255, 255, 224);*/
+	background-image: url("2.gif")
+}
+
+h1 {
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+	text-align: center;
+	margin: 5px;
+	font-family: Garamond;
+}
+
+p {
+	background-color: rgba(128, 128, 128, 0);
+	color: white;
+	padding: 5px;
+	margin: 5px;
+	font-family: Lucida Console;
+}
+
+p:hover {
+	background-color: rgba(47, 79, 79, 0);
+	cursor: pointer;
+	transition-duration: 0.8s;
+	
+}
+
+.qwe {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.asd {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.zxc {
+	background-color: rgba(0, 0, 0, 0.5);
+}
